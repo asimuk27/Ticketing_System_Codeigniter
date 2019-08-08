@@ -1,0 +1,20 @@
+::-webkit-input-placeholder {	
+	color: #cccccc !important;
+	font-weight:normal;
+	font-family: "Montserrat",sans-serif;
+}
+:-moz-placeholder {
+	color: #cccccc !important;
+	font-family: "Montserrat",sans-serif;
+	font-weight:normal;
+}
+::-moz-placeholder {
+	color: #cccccc !important;
+	font-family: "Montserrat",sans-serif;
+	font-weight:normal;
+}
+:-ms-input-placeholder {  
+	color: #cccccc !important;
+	font-family: "Montserrat",sans-serif;
+	font-weight:normal;
+}

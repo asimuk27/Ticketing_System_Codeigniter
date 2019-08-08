@@ -1,0 +1,35 @@
+   #ticket_booking th {padding:10px !important;}
+   #ticket_booking td {padding:10px !important;}
+ 	 .three_inline_buttons{padding:7px 10px;}
+   .center-tags{text-align:center;}
+   .event_cancel{margin:10px;}
+   .red_span{color:red;}
+   .modal-header{background:#00a4ef none repeat scroll 0 0;border-top-left-radius: 10px;border-top-right-radius: 10px;}
+  #model_title{color:white;text-align:center;}
+  .modal-content{border-radius: 15px;}
+  .table_white_box .row{margin:10px;}
+  .jumbo_padding{margin-top:10px;}
+  .include_padding{padding-top:7px;padding-bottom:7px;}
+  #gmap_canvas img{max-width:none!important;background:none!important}
+  
+  .event-left{ width:48%; float:left}
+  .event-right{ width:48%; float:right}
+  
+  
+  
+  
+  /*Custom Size*/  
+@media only screen and (max-width: 1330px) {  
+ 
+}
+
+@media only screen and (max-width: 1250px) { 
+ 
+ }
+
+@media only screen and (max-width: 900px) {  
+ 
+.event-left{ width:100%; float:none}
+ .event-right{ width:100%; float:none}
+
+}

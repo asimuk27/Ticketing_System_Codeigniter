@@ -1,0 +1,8 @@
+  .error_fields{
+    background: red;
+  }
+  .table_special th{padding:10px !important;}
+  .table_special td{padding:10px !important;}
+  .tic_three{height:30px !important;width:150px !important;}
+  #donations{margin:0px;}
+  .space_right{margin-right:10px;display:inline !important;}

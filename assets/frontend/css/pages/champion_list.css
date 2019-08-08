@@ -1,0 +1,7 @@
+	.table-bordered th{padding:10px !important;}
+	.table-bordered td{padding:10px !important;}
+	.odd{background:#f9f9f9;}
+	.even{background:#ffffff;}
+	.label_status{font-weight:normal;color:lightgrey;}
+	.special_text{font-size: 20px;padding-bottom: 0px;}
+	hr{margin:10px 1px 1px 1px;}

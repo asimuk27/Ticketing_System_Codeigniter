@@ -1,0 +1,20 @@
+span{
+		color:red;
+		font-weight: bold;
+	}
+	.special_message{font-weight: normal;color:grey;}
+	.error{color:red;font-weight: normal;}
+	input[type="email"] {
+		border: 1px solid rgb(185, 193, 204);
+		color: #666;
+		height: 43px;
+		margin-bottom: 15px;
+		padding: 8px 10px;
+		width: 100%;
+	}	
+	.adjust_donation_box_margin{margin-top:5px;}
+	.gray_bg_radio{padding:10px;height:48px;}
+	
+	.message_error .error{margin-left: 60px;}
+	
+	.normal{font-weight:normal;}

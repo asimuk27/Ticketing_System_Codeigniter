@@ -1,0 +1,47 @@
+body{font-family:Verdana, Geneva, sans-serif;}
+table tr td{background:#fff;border:1px solid #dddddd;height:25px;}
+.inner_table tr td{border:none;text-align:center !important;}
+.inner_tr{border:none;}
+table {height:400px;width:800px;}
+table{background:#dddddd;}
+.first{width:98%;float:left;border:3px solid #dddddd;}
+.second{width:100%;}
+.third{width:100%;padding:5px; height: 70px;}
+.four{color:#dddddd;text-align: left;;margin-top:0px;}
+.fifth{font-size:15px;font-weight:300;padding:5px;}
+.unique_style{color:#dddddd;}
+.ticket_id_style{color:#dddddd;}
+div .unique_style{width:200px !important;}
+div .unique_style_right{float:right;}
+.event_title{font-size:25px;font-weight:500;padding:15px;}
+.sixth{width:100%;}
+.seventh{width:50%;border-top:none;border-bottom:none;padding:5px;height: 100px;border-right:none;}
+.eight{color:#dddddd;text-align: left;;margin-top:0px;}
+.nine{text-align:right;padding: 20px 0;width:70%;float:right;}
+.tenth{width:50%;border-top:none;border-bottom:none;padding:5px;height: 100px;}
+.eventh{color:#dddddd;text-align: left;;margin-top:0px;}
+.twelth{text-align:right;padding: 20px 0;width:70%;float:right;}
+.thirteen{width:100%;}
+.fourteen{width:100%;border-bottom:none;padding:5px; height: 60px;}
+.fieteen{color:#dddddd;text-align: left;;margin-top:0px;}
+.sixtinth{margin-top:0px;text-align:right;padding:10px 0px;}
+.twnty3{min-width:150px;height:397px;}
+.twnety2{width:28%;float:left;}
+.twentyone{margin-top:0px;float:left;padding:10px 0px;}
+.ninetiht{width:100%;padding:5px; height: 30px;}
+.eigteent{width:100%;}
+.twwenty{color:#dddddd;float: left;;margin-top:0px;}
+.twety4{border-left:none;padding:5px;height:100%;}
+.twety5{color:#dddddd;text-align: left;;margin-top:0px;font-size:13px;height:200px;}
+.twnty6{margin-top:0px;text-align:right;padding:10px 0px;height:200px;}
+.no_border{border:none;}
+.last_div{float:right;}
+.ticket_id{background: white;border:1px solid #ccc;padding:5px;text-align:center;}
+/*table{background: rgb(238, 238, 238) none repeat scroll 0% 0%; border: 1px solid rgb(204, 204, 204);}*/
+#qa_code_css{text-align:center;}
+.ticket_labels{color: #999999 !important;}
+.title_headings{font-size: 22px;font-weight:300;}
+.margin-right{margin-left:10px;}
+.go_left{float:left;width:50%;}
+.go_right{float:right;width:50%;}
+.ticket_style_new{border:5px solid red;}
